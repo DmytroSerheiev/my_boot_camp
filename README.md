@@ -29,7 +29,7 @@ git config
 git config --global user.name — Показывает имя пользователя
 git config --global user.name 'new user' — Изменяет имя пользователя
 git config --global user.email — Показывает email пользователя
-git config --global user.email 'test@mail.ru' — Изменяет email пользователя
+git config --global user.email 'test@gmail.gom' — Изменяет email пользователя
 git push
 Заливает текущие локальные коммиты в удаленный репозиторий
 git pull
